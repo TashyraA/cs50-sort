@@ -1,0 +1,44 @@
+sort1 uses: Bubble Sort
+
+How do you know?: Sort 1 is able to sort a line of 50,000 sorted numbers in under a second.
+
+Random5000: 0.075s
+Random10000: 0.317s
+Random50000: 8.374s
+Reversed5000: 0.069s
+Reversed10000: 0.278s
+Reversed50000: 6.436s
+Sorted5000: 0.146s
+Sorted10000: 0.062s
+Sorted50000: 0.759s
+
+sort2 uses: Merge Sort
+
+How do you know?: Sort 2 sorts through a line of 50,000 random numbers a lot faster than sort 1 & 3.
+
+Random5000: 0.020s
+Random10000: 0.060s
+Random50000: 0.821s
+Reversed5000: 0.062s
+Reversed10000: 0.058s
+Reversed50000: 1.800s
+Sorted5000: 0.039s
+Sorted10000: 0.056s
+Sorted50000: 0.918s
+
+
+sort3 uses: Selection Sort
+
+How do you know?: Sort 3 takes a longer time sorting through the numbers reflecting in a larger time for 50,000 numbers
+
+Random5000: 0.062s
+Random10000: 0.171s
+Random50000: 3.392s
+Reversed5000: 0.076s
+Reversed10000: 0.166s
+Reversed50000: 4.403s
+Sorted5000: 0.046s
+Sorted10000: 0.171s
+Sorted50000: 3.422s
+
+
